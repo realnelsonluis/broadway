@@ -2,6 +2,9 @@ body {
   text-align: center;
   font-family: "Helvetica", sans-serif;
 }
+nav {
+  background-image: url("./resources/images/the-flatiron-building.png");
+}
 h1 {
   font-size: 70px;
   font-weight: bold;
